@@ -23,7 +23,7 @@
 4. The url used for web scrapping is https://www.amazon.com/gp/video/storefront/
 
 
-## Output: WordCloud
+## Final Output
 
 ![](rating_above_8.png)
 
